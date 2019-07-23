@@ -9,6 +9,11 @@ An object-oriented Barnes-Hut gravity simulator.
 Note: All parameters have default values specified in main.cpp and/or in the Universe::Builder constructor
 
 ## Current Benchmark
+
+Intel Core i7-7700HQ
+
+16 GB RAM
+
 |Particle Count|Initialization|Iteration|
 | :------------- | :----------: | -----------: |
 |  1000 | ~2 ms   |    1.23 ms |
