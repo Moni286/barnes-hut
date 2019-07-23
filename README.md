@@ -5,6 +5,7 @@ An object-oriented Barnes-Hut gravity simulator.
 ## Current Implementation:
 - Simulation can be initialized from a JSON file containing required parameters.
 - Particle positions and masses are written to stdout (as csv) in a separate logging thread. Data can be saved to a file or piped to a particle animator.
+
 Note: All parameters have default values specified in main.cpp and/or in the Universe::Builder constructor
 
 ## Current Benchmark
