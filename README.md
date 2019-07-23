@@ -10,9 +10,9 @@ Note: All parameters have default values specified in main.cpp and/or in the Uni
 
 ## Current Benchmark
 
-Intel Core i7-7700HQ
+- Intel Core i7-7700HQ
 
-16 GB RAM
+- 16 GB RAM
 
 |Particle Count|Initialization|Iteration|
 | :------------- | :----------: | -----------: |
