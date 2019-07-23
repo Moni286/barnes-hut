@@ -1,0 +1,22 @@
+{
+	"corners": {
+		"topleft": {
+			"x": 0,
+			"y": 0
+		},
+		"bottomright": {
+			"x": 100000,
+			"y": 100000
+		}
+	},
+
+	"nparticles": 16000,
+	"timestep": 1,
+	"seed": 4,
+	"minMass": 0.1,
+	"maxMass": 10000,
+    "minVelocity": 0,
+    "maxVelocity": 2,
+    "g": 1
+
+}
